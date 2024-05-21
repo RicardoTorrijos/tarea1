@@ -1,0 +1,38 @@
+#contenedor{
+        background-color:#DCF4F2;
+        border:2px solid #5878ca;
+
+}
+#cabecera{
+        background-color:#E23864;
+	font-family: Arial;
+	color:#FFFFFF;
+  	font-size: 60px;
+        height:40%;
+	
+
+}
+#izquierda{
+        height:110%;
+	font-family: Arial;
+  	font-size: 42px;
+	color:#FFFFFF;
+        background-color:#F77395;
+        float:left;
+        width:55%;
+}
+#derecha{
+        height:110%;
+        background-color:#F77395;
+        float:right;
+        width:45%;
+}
+#pie{
+        height:40%;
+        background-color:#E23864;
+	font-family: Arial;
+	color:#FFFFFF;
+  	font-size: 60px;
+        clear:both;
+
+
